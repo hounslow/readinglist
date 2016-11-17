@@ -5,6 +5,10 @@
 - History of Western Philosophy
 - Metaphysics
 - Tractatus Logicus
+- Discourse on Inequality
+- Critique of Pure Reason
+- Nietzsche Basic Writings
+- The Rebel
 
 
 ### History
@@ -15,8 +19,14 @@
 
 
 ### Political Science
+- The Great Degeneration
 
 ### Fiction
+
+#### Sci-fi
+- Endymion
+- Rise of Endymion
+- Stranger in a strange land
 
 
 ### Science
