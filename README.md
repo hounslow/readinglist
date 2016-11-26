@@ -9,6 +9,14 @@
 - Critique of Pure Reason
 - Nietzsche Basic Writings
 - The Rebel
+- Incomplete Nature
+- Arguably
+- The Prince
+- Selected Writings from Hegel
+
+### Biology
+- Origin of Species
+
 
 
 ### History
