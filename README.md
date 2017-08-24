@@ -1,7 +1,7 @@
 # Matt's extensive reading list
 
 ## Non-Fiction
-------
+***
 
 ### Philosophy
 - Raids on the Unspeakable
@@ -42,7 +42,7 @@
 - 4-Hour Workweek
 
 ## Fiction
--------
+***
 ### Sci-fi
 - Endymion
 - Rise of Endymion
